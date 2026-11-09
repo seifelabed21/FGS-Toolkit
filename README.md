@@ -2,6 +2,9 @@
 
 A simple, modular Python CLI for authorized internal network assessments. `main.py` displays the menu. Each tool is an independent file with a reusable function and can also be run directly.
 
+<img width="897" height="467" alt="image" src="https://github.com/user-attachments/assets/db738fdc-a63e-42bb-b2f6-128dae4f4d44" />
+
+
 ## Safety and use restrictions
 
 Use only on systems and networks you own or are explicitly authorized to assess.
